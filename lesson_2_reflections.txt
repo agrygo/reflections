@@ -1,0 +1,2 @@
+when a git repo is intialized a .git folder is created no commits are made and no files are being tacked
+this step is needed to set up the git files

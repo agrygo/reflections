@@ -1,0 +1,16 @@
+used diff -u file1  file2  in Git Bash to compare two files
+viewing the diff helped to see the bugs by showing the actual differences in files.
+
+Having easy access to the entire history of a file with commit comments will make me a better programmer in the long term to see what changes were made at a particular point and what those changes did or did not do.
+
+pros and cons of manual changes to commits
+pros: you pick when
+cons: you might not remember, not autosave function
+
+I think some vcs like Git allow to track multiple files since they interconnect, e.g. .html, .js, .css  whereas something like GoogleDocs to store a photo doesn't require that connectivity
+
+git log shows the commit versions with a log id that can be used in git diff to see the differences between commits
+
+version control rocks for trying out changes
+
+I want to use Git for managing my coding files
