@@ -1,2 +1,6 @@
 when a git repo is intialized a .git folder is created no commits are made and no files are being tacked
 this step is needed to set up the git files
+
+
+staging area is the in-between from working dir and repository
+Offers to allow only certain files from the working dir to go to repo
